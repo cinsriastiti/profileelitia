@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 -- Data untuk tabel `users`
 INSERT INTO `users` (`id`, `nama`, `role`, `username`, `password`, `img_url`) VALUES
-(6, 'Farhan Naufal', 'Tuhan', 'ffl', '$2a$10$NW4WH/EVr8qXbvJMjvQEHu6lwrmKCy5J/F.G5nqmZQXS/xfGDUoYy', ''),
+(6, 'Farhann Naufall', 'Tuhan', 'ffl', '$2a$10$NW4WH/EVr8qXbvJMjvQEHu6lwrmKCy5J/F.G5nqmZQXS/xfGDUoYy', ''),
 (8, 'Tes member', 'Anggota', 'member', '$2a$10$eFem.7E87dukXFq/ASn7IeeIOf/mxacEVKEChbxev253u6uEA1AmG', ''),
 (9, 'Tes Admin', 'Admin', 'admin', '$2a$10$Dlcpys25a4vtiulY3sK1JuF8p9Zgu4zM1YMEBs.6grFRP4aAS56ba', '');
 
